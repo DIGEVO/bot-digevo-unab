@@ -30,7 +30,7 @@
     "util": "^0.10.3",
     "uuid": "^3.1.0"
   },
-  "devDependencies": {    
+  "devDependencies": {
     "zip-folder": "^1.0.0"
   }
 }
